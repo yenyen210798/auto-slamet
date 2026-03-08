@@ -1,0 +1,2 @@
+# auto-slamet
+auto
